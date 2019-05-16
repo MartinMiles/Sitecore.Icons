@@ -4,7 +4,11 @@ Few icons for your Sitecore LaunchPad to shortcut navigation for frequent activi
 
 ### Notes
 
+These icons will be available for admin users only.
+
+
 ![Sitecore.Icons](https://raw.githubusercontent.com/wiki/MartinMiles/Sitecore.Icons/images/launchpad.png "Sitecore LaunchPad Icons") 
+
 
 ## Downloads
 
